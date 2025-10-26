@@ -1,4 +1,4 @@
-https://github.com/floyzg/sales-bonus
+[GitHub Page](https://github.com/floyzg/sales-bonus)
 
 # Проектная работа "Пряники"
 
